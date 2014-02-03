@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">단말 서비스 상태확인</string>
+    <string name="description">단말의 Service State를 확인합니다. </string>
+    <string name="result">확인</string>
+
+</resources>
